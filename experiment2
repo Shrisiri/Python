@@ -1,3 +1,20 @@
+Aim:
+Write a Program to implement control flow statements and looping statements in python.
+
+Algorithm 
+
+1.Start.
+2.Store runs, balls, wickets, runs conceded, overs, and catches in lists.
+3.Use a for loop to process each player.
+4.Calculate Strike Rate.
+5.Calculate Economy Rate.
+6.Use if-elif-else to determine batting performance.
+7.Use if-elif-else to determine bowling performance.
+8.Use if-elif-else to determine fielding performance.
+9.Use if-elif-else to determine overall all-rounder category.
+10.Display the results.
+11.Repeat until all players are processed.
+12.Stop.
 
 # CASE STUDY 1
 # LOOPING + BRANCHING STATEMENTS
